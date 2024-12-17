@@ -60,7 +60,7 @@ Developed by: RegisterNumber:
 ![Screenshot 2024-12-09 105744](https://github.com/user-attachments/assets/200c063e-0edc-4af4-aba6-b8411a79d09d)
 
 **RESULTS**
-The study of encoder data flow are verified.
+The study of encoder data flow are verified.1
 
 
 
